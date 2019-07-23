@@ -1,3 +1,4 @@
-# dolphin-weex-ui-template
+# dol-weex-ui-template
 
-> dolphin-weex 脚手架基础模版
+> dol-weex 脚手架基础模版
+> 线上预研
